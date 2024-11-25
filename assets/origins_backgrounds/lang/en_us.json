@@ -1,0 +1,13 @@
+{
+  "origin.origins_backgrounds.hoarder.name": "Hoarder",
+  "origin.origins_backgrounds.hoarder.description": "Hoarders do not let good loot go to waste.",
+  "origin.origins_backgrounds.wilted.name": "Wilted",
+  "origin.origins_backgrounds.wilted.description": "Years experimenting with biomancy has taken a toll on your ability to naturally regenerate.",
+
+  "power.origins_backgrounds.hoarders_stash.name": "Hoarder's Stash",
+  "power.origins_backgrounds.hoarders_stash.description": "You do not lose any items when you die.",
+  "power.origins_backgrounds.wither.name": "Wither",
+  "power.origins_backgrounds.wither.description": "Your body has wilted away and lost the ability to naturally regenerate.",
+  "power.origins_backgrounds.wither.name": "...and Bloom",
+  "power.origins_backgrounds.wither.description": "A good night's sleep under the stars feels refreshing."
+}

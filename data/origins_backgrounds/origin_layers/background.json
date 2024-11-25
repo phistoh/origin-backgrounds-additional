@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "order": 15,
+  "enabled": true,
+  "origins": [
+    "origins_backgrounds:hoarder",
+    "origins_backgrounds:wilted"
+  ]
+}

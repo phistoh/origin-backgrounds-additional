@@ -1,0 +1,5 @@
+{
+    "type": "origins:disable_regen",
+    "name": "Wither",
+    "description": "Your body has wilted away and lost the ability to naturally regenerate."
+}

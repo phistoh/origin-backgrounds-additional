@@ -1,0 +1,11 @@
+{
+  "name": "Wilted",
+  "description": "Years experimenting with biomancy has taken a toll on your ability to naturally regenerate.",
+  "powers": [
+    "origins_backgrounds:wither",
+    "origins_backgrounds:and_bloom"
+  ],
+  "icon": "minecraft:wither_rose",
+  "order": 14,
+  "impact": 2
+}

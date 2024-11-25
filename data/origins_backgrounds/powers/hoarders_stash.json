@@ -1,0 +1,5 @@
+{
+    "name": "Hoarder's Stash",
+    "description": "You do not lose any items when you die.",
+    "type": "origins:keep_inventory"
+}

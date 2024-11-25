@@ -1,0 +1,10 @@
+{
+  "name": "Hoarder",
+  "description": "Hoarders do not let good loot go to waste.",
+  "powers": [
+    "origins_backgrounds:hoarders_stash"
+  ],
+  "icon": "minecraft:chest",
+  "order": 14,
+  "impact": 0
+}
